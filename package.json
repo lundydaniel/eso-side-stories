@@ -1,0 +1,20 @@
+{
+  "name": "eso-side-stories",
+  "version": "1.0.0",
+  "description": "Eso side stories",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lundydaniel/eso-side-stories.git"
+  },
+  "author": "Daniel Lundy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lundydaniel/eso-side-stories/issues"
+  },
+  "homepage": "https://github.com/lundydaniel/eso-side-stories#readme"
+}
