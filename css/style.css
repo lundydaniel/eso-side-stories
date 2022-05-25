@@ -1,0 +1,19 @@
+body {
+    overflow: hidden;
+    background-color: #e5e5e5;
+    color:#e5e5e5
+}
+
+#bookOne {
+    margin: 5% auto;
+    width: 700px;
+    height: 600px;
+    border: 1px solid black;
+    background-image: url("../imgs/annie-spratt-xt79nQxc9Q0-unsplash.jpg");
+    background-position: cover;
+}
+
+#bookOne .turn-page {
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
